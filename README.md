@@ -1,5 +1,5 @@
 # GRF -> LAB2 - Conway's Game of Life
-
+*edit no hay canal en el discord para publicar el gif aún
 
 
 ## Demostración de Ejecución
